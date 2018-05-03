@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## It's all about your support network..
 
-You can use the [editor on GitHub](https://github.com/sarahkemi/mha/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Video will go here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What did you think?
 
-### Markdown
+<form action="https://getsimpleform.com/messages?form_api_token=309d1df9bbe50c7f59aca4769d8ba6a0" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='https://sarahkemi.github.io/mha/'/>
+  <!-- all your input fields here.... -->
+  <p>On a scale of 1 to 5, how much have you leaned on your support network in the past?
+  <select name="q1">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+  </select>
+  </p>
+  <p>On a scale of 1 to 5, how much effort will you put towards building/leaning on your support network in the future?
+   <select name="q2">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+  </select>
+  </p>
+  <p>Has this video changed the way you view mental health or wellness network?</p>
+   <textarea name='q3' style="width:100%"></textarea> <br>
+  <p><b>Who’s in your support network?</b></p>
+  <textarea name='q4' style="width:100%"></textarea> <br>
+  <input type='submit' value='Submit' />
+</form>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Who's in your support network??
 
-```markdown
-Syntax highlighted code block
+My support network is jfkdslfjsdfldskfjkldfjlsfjffsdf.
 
-# Header 1
-## Header 2
-### Header 3
+I rely on fjkdslfj, djsfklsdjf, djsfksdlfjsdl, dsfsd.
 
-- Bulleted
-- List
+## Links to Resources
 
-1. Numbered
-2. List
+### Harvard
+- [Counseling and Mental Health Services](https://huhs.harvard.edu/services/counseling-and-mental-health)
+- [Room 13](http://www.hcs.harvard.edu/room13/)
+- [Center for Wellness](https://wellness.huhs.harvard.edu/)
+- [Harvard Chaplains](https://chaplains.harvard.edu/)
+- [CARE](https://chaplains.harvard.edu/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sarahkemi/mha/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### MIT
+- [MIT Mental Health & Counseling](https://medical.mit.edu/services mental-health-counseling)
+- [MIT Wellness](https://medical.mit.edu/services/community-wellness)
+- [Peer Ears](https://peerears.mit.edu/)
+- [SaveTFP](http://web.mit.edu/savetfp/SaveTFP/Home.html)
+- [MIT Chaplains](https://studentlife.mit.edu/rl/who-we-are)
+- [Pleasure@MIT](http://pleasure.mit.edu/)
