@@ -1,13 +1,12 @@
-## It's all about your support network..
+## Build, use, and share your support network
 
-Video will go here
+<iframe width="854" height="480" src="https://www.youtube.com/embed/9Yv5z0D_zIU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## What did you think?
 
 <form action="https://getsimpleform.com/messages?form_api_token=309d1df9bbe50c7f59aca4769d8ba6a0" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='https://sarahkemi.github.io/mha/'/>
-  <!-- all your input fields here.... -->
   <p>On a scale of 1 to 5, how much have you leaned on your support network in the past?
   <select name="q1">
     <option value="1">1</option>
@@ -35,9 +34,7 @@ Video will go here
 
 ## Who's in your support network??
 
-My support network is jfkdslfjsdfldskfjkldfjlsfjffsdf.
-
-I rely on fjkdslfj, djsfklsdjf, djsfksdlfjsdl, dsfsd.
+My support network consists of my friends, family, living group, music groups, and my therapist. Through all their support, I've managed to ride out this four year rollercoaster.
 
 ## Links to Resources
 
