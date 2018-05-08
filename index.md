@@ -25,7 +25,7 @@
     <option value="5">5</option>
   </select>
   </p>
-  <p>Has this video changed the way you view mental health or wellness network?</p>
+  <p>Has this video changed the way you view mental health or wellness networks?</p>
    <textarea name='q3' style="width:100%"></textarea> <br>
   <p><b>Who’s in your support network?</b></p>
   <textarea name='q4' style="width:100%"></textarea> <br>
@@ -35,6 +35,16 @@
 ## Who's in your support network??
 
 My support network consists of my friends, family, living group, music groups, and my therapist. Through all their support, I've managed to ride out this four year rollercoaster.
+
+My support network is mainly my partner and my siblings. I have also found online communities and online resources in general to be very helpful during times when I'm still working up the courage to voice things out loud.
+
+Friends, parent.
+
+Friends/tutors/college resources.
+
+My parents, grandparents, and friends are in my support network.
+
+Boyfriend, high school friend, a few friends I met freshmen year of college.
 
 ## Links to Resources
 
